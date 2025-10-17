@@ -1,4 +1,4 @@
-// widget/techrex-pdf-embed.js
+<script>
 (() => {
   const DEFAULT_DOMAIN = 'https://pdffreeeditor.com';
 
@@ -64,3 +64,4 @@
     render();
   }
 })();
+<script>
